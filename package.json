@@ -1,5 +1,5 @@
 {
-  "name": "grunt-modernizr",
+  "name": "@wiwo/grunt-modernizr",
   "description": "Build out a lean, mean Modernizr machine.",
   "version": "0.6.1",
   "homepage": "https://github.com/Modernizr/grunt-modernizr",
