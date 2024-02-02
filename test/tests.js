@@ -5,7 +5,6 @@
 
 var fs = require("fs");
 var path = require("path");
-var colors = require("colors");
 var cwd = process.cwd();
 
 var nexpect = require("nexpect");

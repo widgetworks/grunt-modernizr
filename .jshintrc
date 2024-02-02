@@ -45,6 +45,7 @@
 	"trailing": true,
 	"white": true,
 	"indent": 4,
+	"esversion": 6,
 	"predef": [
 		"describe",
 		"it",
