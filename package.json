@@ -24,7 +24,7 @@
     "node": ">=10"
   },
   "dependencies": {
-    "customizr": "^2.0.0",
+    "customizr": "^2.0.4",
     "lodash.merge": "^4.6.2"
   },
   "devDependencies": {
